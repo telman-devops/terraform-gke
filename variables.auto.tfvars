@@ -1,0 +1,9 @@
+project_id             = "itechart-377110"
+cluster_name           = "learnk8s-cluster"
+env_name               = "dev"
+region                 = "europe-west3"
+gke_zones              = ["europe-west3-b"]
+network                = "gke-network"
+subnetwork             = "gke-subnet"
+ip_range_pods_name     = "ip-range-pods"
+ip_range_services_name = "ip-range-services"
